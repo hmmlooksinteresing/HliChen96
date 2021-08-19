@@ -1,5 +1,5 @@
 Hi.
-- Languages: English/Mandarin/Horrible Taiwanese Hokkien
+- Languages: English/Mandarin
 
 <!---
 HliChen96/HliChen96 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
